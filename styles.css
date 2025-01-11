@@ -134,3 +134,442 @@
   font-family: "Exo 2", serif; 
   font-weight: 300; 
 }
+.testClass{
+    font-family: "Arial", serif;
+    font-weight: 500;
+    font-style: normal;
+    text-shadow: 10px 10px;
+}
+
+body {
+    background-color:#FF8C00;
+}
+h1 {
+    font-family: "Doto", serif;
+    text-align: center;
+    /*text-shadow: black;*/
+    text-shadow: rgba(255,255,255);
+
+
+}
+
+.ubuntu-condensed-regular {
+    font-family: "Ubuntu Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.ubuntu-light {
+    font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.ubuntu-regular {
+    font-family: "Ubuntu", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu-medium {
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.ubuntu-bold {
+    font-family: "Ubuntu", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ubuntu-light-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.ubuntu-regular-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ubuntu-medium-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.ubuntu-bold-italic {
+    font-family: "Ubuntu", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.ubuntu-mono-regular {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu-mono-bold {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ubuntu-mono-regular-italic {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ubuntu-mono-bold-italic {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+.chakra-petch-light {
+    font-family: "Chakra Petch", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.chakra-petch-regular {
+    font-family: "Chakra Petch", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.chakra-petch-medium {
+    font-family: "Chakra Petch", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.chakra-petch-semibold {
+    font-family: "Chakra Petch", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.chakra-petch-bold {
+    font-family: "Chakra Petch", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.chakra-petch-light-italic {
+    font-family: "Chakra Petch", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.chakra-petch-regular-italic {
+    font-family: "Chakra Petch", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.chakra-petch-medium-italic {
+    font-family: "Chakra Petch", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.chakra-petch-semibold-italic {
+    font-family: "Chakra Petch", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.chakra-petch-bold-italic {
+    font-family: "Chakra Petch", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.share-tech-mono-regular {
+    font-family: "Share Tech Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.armata-regular {
+    font-family: "Armata", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.anonymous-pro-regular {
+    font-family: "Anonymous Pro", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.anonymous-pro-bold {
+    font-family: "Anonymous Pro", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.anonymous-pro-regular-italic {
+    font-family: "Anonymous Pro", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.anonymous-pro-bold-italic {
+    font-family: "Anonymous Pro", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.oxygen-mono-regular {
+    font-family: "Oxygen Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.syne-mono-regular {
+    font-family: "Syne Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/*SOMETYPE MONO*/
+/* Regular weight */
+.sometype-mono-display {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Medium weight */
+.sometype-mono-heading {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Bold weight */
+.sometype-mono-button {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+/* Regular weight, regular style */
+.sometype-mono-regular {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Medium weight, regular style */
+.sometype-mono-medium {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Bold weight, regular style */
+.sometype-mono-bold {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Regular weight, italic style */
+.sometype-mono-italic {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Bold weight, italic style */
+.sometype-mono-bold-italic {
+    font-family: "Sometype Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+}
+/*SOMETYPEMONO*/
+
+/*KODE MONO*/
+/* Light weight */
+.kode-mono-caption {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Regular weight */
+.kode-mono-body {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Bold weight */
+.kode-mono-code {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+/* Light weight, regular style */
+.kode-mono-light {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Regular weight, regular style */
+.kode-mono-regular {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Medium weight, regular style */
+.kode-mono-medium {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Bold weight, regular style */
+.kode-mono-bold {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Regular weight, italic style */
+.kode-mono-italic {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+}
+/*KODE MONO*/
+
+/*DOTO*/
+/* Thin weight */
+.doto-thin {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Medium weight */
+.doto-regular {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Black weight */
+.doto-bold {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+/* Thin weight, regular style */
+.doto-thin {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Light weight, regular style */
+.doto-light {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Regular weight, regular style */
+.doto-regular {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Medium weight, regular style */
+.doto-medium {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Bold weight, regular style */
+.doto-bold {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Black weight, regular style */
+.doto-black {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Regular weight, italic style */
+.doto-italic {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-variation-settings:
+            "ROND" 0;
+}
+
+/* Bold weight, italic style */
+.doto-bold-italic {
+    font-family: "Doto", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-variation-settings:
+            "ROND" 0;
+}
+/*DOTO*/
